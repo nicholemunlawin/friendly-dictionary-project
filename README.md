@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project has moved to the main portfolio repository: [Portfolio Projects](https://github.com/nicholemunlawin/portfolio-projects/tree/main/python-projects/friendly-dictionary-project). This repository is archived and kept for history/reference.
+
 # Friendly Dictionary App
 
 A user-friendly desktop dictionary application built with Python and Tkinter. It uses the free [Dictionary API](https://dictionaryapi.dev/) to fetch word meanings, pronunciations, synonyms, antonyms, and examples.
